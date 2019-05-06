@@ -52,7 +52,7 @@ export default class Index extends React.Component<Props, State> {
             }}
           >
             <Subtitle>Welcome To</Subtitle>
-            <Title>Progression at Monzo 🎉</Title>
+            <Title>Progression at Programmai 🎉</Title>
           </DescriptionTitleGroup>
           <Description
             ref={description => {
@@ -60,7 +60,7 @@ export default class Index extends React.Component<Props, State> {
             }}
           >
             <DescriptionText>
-              This is where we keep the progression frameworks we use at Monzo.
+              This is where we keep the progression frameworks we use at Programmai.
             </DescriptionText>
             <DescriptionText>
               Progression frameworks are tools that help us evaluate and pay our
@@ -68,7 +68,7 @@ export default class Index extends React.Component<Props, State> {
               their work.
             </DescriptionText>
             <DescriptionText>
-              We&apos;ve put them here for everyone at Monzo (and anyone in the
+              We&apos;ve put them here for everyone at Programmai (and anyone in the
               world!) to use.
             </DescriptionText>
             <DescriptionText>
@@ -84,16 +84,9 @@ export default class Index extends React.Component<Props, State> {
             </DescriptionText>
             <DescriptionText>
               To get involved, go to{' '}
-              <a href="https://github.com/monzo/progression-framework">
+              <a href="https://github.com/programmai/progression-framework">
                 <FontAwesomeIcon icon={faGithub} />{' '}
-                @monzo/progression-framework.
-              </a>
-            </DescriptionText>
-            <DescriptionText>
-              You can find out more about progression at Monzo and what it means
-              for us in this{' '}
-              <a href="https://monzo.com/blog/2019/01/07/progression">
-                blog post.
+                @Programmai/progression-framework.
               </a>
             </DescriptionText>
             <DescriptionText>

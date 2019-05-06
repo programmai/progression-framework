@@ -5,7 +5,6 @@ sidebarTitle: "📄 Generic"
 sidebarGroup:
 yaml: true
 levels: 6
-homepage: false
 topics:
   - name: "knowledge"
     title: "🧠 Knowledge"

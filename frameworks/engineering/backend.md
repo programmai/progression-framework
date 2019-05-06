@@ -5,7 +5,6 @@ sidebarTitle: "🛠️ Backend"
 sidebarGroup: "engineering"
 yaml: true
 levels: 6
-homepage: true
 topics:
   - name: "communication"
     title:
@@ -104,11 +103,11 @@ topics:
               - "I think this code could be improved by doing X, let's pair on it and I'll talk through why X is good for this"
       - level: 4
         criteria:
-          - "Contributes to maintaining the Monzo culture in their team, helping new joiners"
+          - "Contributes to maintaining the Programmai culture in their team, helping new joiners"
           - "Gets buy-in on technical decision-making and proposed designs"
           - "Proactively involves other relevant engineers"
           - "Sought out for code reviews"
-          - "Instills Monzo engineering principles in other engineers"
+          - "Instills Programmai engineering principles in other engineers"
           - "Helps the growth of engineers around them through coaching and mentoring"
           - "Helps their squad work together more effectively"
           - "Helps facilitate team/squad rituals"
@@ -118,12 +117,12 @@ topics:
               - "I've used RxJava for the first time here, I'm going to do a talk about why I've done this, here's some great blog posts on it"
       - level: 5
         criteria:
-          - "Instills Monzo engineering principles across a whole squad of engineers"
+          - "Instills Programmai engineering principles across a whole squad of engineers"
           - "Works with relevant Engineering Managers to help other engineers perform and grow"
           - "Fosters effective collaboration in multi-disciplinary squads (backend, mobile, data, design, web)"
           - "Delegates technical decisions with low risk and high reversibility"
           - "Owns technical decisions with high risk and low reversibility"
-          - "Contributes to maintaining the Monzo culture in the wider company"
+          - "Contributes to maintaining the Programmai culture in the wider company"
           - "Bootstraps new teams"
       - level: 6
         criteria:
@@ -132,7 +131,7 @@ topics:
           - "Delegates to make better use of their time"
   - name: "influence"
     title: "✨ Influence"
-    description: "Influence on others and the Monzo environment"
+    description: "Influence on others and the Programmai environment"
     content:
       - level: 1
         criteria:
@@ -157,8 +156,8 @@ topics:
           - "Breaks down delivery and knowledge silos in their squad"
       - level: 5
         criteria:
-          - "Represents Monzo at conferences/events"
-          - "Given as reason for other engineers to join Monzo"
+          - "Represents Programmai at conferences/events"
+          - "Given as reason for other engineers to join Programmai"
           - "Proactively shares knowledge internally"
           - "Acts as the 'sole proprietor', in the CEO mindset, their ego/agenda is not a factor in their thinking or decision making"
       - level: 6
@@ -167,7 +166,7 @@ topics:
           - "Engineers around them get better and have a bigger impact, faster"
   - name: "mastery"
     title: "🛠️ Mastery"
-    description: "Your Monzo knowledge and technical capability"
+    description: "Your Programmai knowledge and technical capability"
     content:
       - level: 1
         criteria:

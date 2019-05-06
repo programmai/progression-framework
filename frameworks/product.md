@@ -5,7 +5,6 @@ sidebarTitle: "🚀 Product"
 sidebarGroup:
 yaml: true
 levels: 5
-homepage: false
 topics:
   - name: "problem solving"
     title: "🧠 Problem solving"
@@ -15,16 +14,16 @@ topics:
         criteria:
           - "Assesses if features they are involved with are needed, how it solves customer problems and how it contributes to a measurable business objective."
           - "Demonstrates enthusiasm to learn a range of problem-solving techniques and practices."
-          - "Understands how product works in their squad, which problems it solves and how it is performing."
+          - "Understands how product works in their team, which problems it solves and how it is performing."
       - level: 2
         criteria:
-          - "Works with the squad to set clear goals for their remit."
+          - "Works with the team to set clear goals for their remit."
           - "Identifies assumptions and risks, and tackles them upfront, testing and learning in increments."
           - "Uses or fosters creativity and experimentation to find and solve problems."
           - "Considers which features to remove, as well as maintain."
           - "Learns from failure and success. Shares and builds on that learning."
           - "Asks good questions to get to the root of a problem or opportunity."
-          - "Deep understanding of product in their squad and good knowledge of product in team."
+          - "Deep understanding of product in their team and good knowledge of product in team."
       - level: 3
         criteria:
           - "Defines a clear, compelling and ambitious product vision and strategy for their remit. Strategy leads to high-performing product experience that delights users."
@@ -37,7 +36,7 @@ topics:
       - level: 5
         criteria:
           - "Creates a clear, compelling and ambitious product vision and strategy for the group, drawing from a deep understanding of quantitative and quantitive insight, business objectives and potential."
-          - "Creates coherence across their product area and the entire product, aligning and amplifying effort of their squads."
+          - "Creates coherence across their product area and the entire product, aligning and amplifying effort of their teams."
           - "Acknowledged as primary expert on product in their group or field. Expert on a number of frameworks, approaches and able to help PMs understand when and why to adopt certain techniques, their advantages and limitations."
   - name: "user-centricity"
     title: "🙍 User-centricity"
@@ -45,12 +44,12 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Always starts with user needs and acts as the voice of the user within their squad."
+          - "Always starts with user needs and acts as the voice of the user within their team."
           - "Able to translate needs into user stories/jobs to be done. Ensures that anything shipped meets users needs. Understands the fidelity needed for different stages of rollout."
       - level: 2
         criteria:
           - "Can identify who users are and what their needs are, based on evidence. Regularly engages with users and can carry out usability testing unassisted."
-          - "Creates shared context and understanding of user needs in their squad. Helps their squad to identify and solve user problems, instead of jumping to features. Ensures that solutions to problems are delightful and high quality."
+          - "Creates shared context and understanding of user needs in their team. Helps their team to identify and solve user problems, instead of jumping to features. Ensures that solutions to problems are delightful and high quality."
       - level: 3
         criteria:
           - "In depth knowledge of current and potential users. Manages trade-offs between user needs."
@@ -70,11 +69,11 @@ topics:
       - level: 1
         criteria:
           - "Closely tracks metrics for features. Uses them to spot issues and measure success."
-          - "Understands how squad’s work links to business objectives and key performance indicators."
+          - "Understands how team’s work links to business objectives and key performance indicators."
       - level: 2
         criteria:
           - "Collaborates with product analyst to set up the right things to track. Understand what a metric actually measures and how reliable/direct it is."
-          - "Closely tracks performance of their squad, and how to influence it. Draws reliable conclusions from qualitative and quantitative data."
+          - "Closely tracks performance of their team, and how to influence it. Draws reliable conclusions from qualitative and quantitative data."
       - level: 3
         criteria:
           - "Closely tracks and understands how metrics interact with and impact other group/business metrics."
@@ -86,7 +85,7 @@ topics:
           - "Can design and evaluate experiments, based on solid hypotheses. Proactively alters course when confidence of hitting goals is low."
       - level: 5
         criteria:
-          - "Connects squad and group numbers to success metrics of business, recognises and addresses gaps between the impact of individual KPIs and business goals."
+          - "Connects team and group numbers to success metrics of business, recognises and addresses gaps between the impact of individual KPIs and business goals."
           - "Deeply understands a range of research and analysis methods, identifies which are best for a given situation and can coach on their use."
   - name: "domain knowledge"
     title: "💭 Domain Knowledge"
@@ -106,7 +105,7 @@ topics:
           - "Develops and maintains solid foundation of market knowledge in their area, proactively identifies potential issues/risks."
       - level: 4
         criteria:
-          - "Conversant with overall Monzo architecture, and highly knowledgeable about specific elements and services that are relevant to their area of responsibility."
+          - "Conversant with overall Programmai architecture, and highly knowledgeable about specific elements and services that are relevant to their area of responsibility."
           - "Develops and maintains an in-depth market knowledge in at least one area and is able to challenge experts. Identifies market opportunities or product gaps."
       - level: 5
         criteria:
@@ -122,7 +121,7 @@ topics:
       - level: 2
         criteria:
           - "Tends to action - narrowing in on a MVP to help learn. Comfortable with releasing uncomfortable first versions (done is better than perfect)."
-          - "Leads squad in prioritising work with some ambiguity or competing demands."
+          - "Leads team in prioritising work with some ambiguity or competing demands."
           - "Makes sure the team have everything they need to be productive."
           - "Maintains sensible work in progress limits and knows when and how to say no."
       - level: 3
@@ -142,29 +141,29 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Collaborates daily with members of the product squad to ship and iterate."
-          - "Understands the objectives of and participates actively in team ceremonies. Prepared and organised to make the most of squad time."
+          - "Collaborates daily with team to ship and iterate."
+          - "Understands the objectives of and participates actively in team meetings. Prepared and organised to make the most of team time."
       - level: 2
         criteria:
-          - "Sets squad rhythm and routines - facilitates agreement on how they all work together to discover, define and ship features or experiments to meet their goals."
-          - "Works collaboratively to get the best out of all of the people in their squad, involving all disciplines throughout. Takes proactive steps to build and maintain team health, e.g. resolve conflict, counter inertia."
-          - "Point person for the squad - does whatever is needed to unblock or support the squad and their delivery. Escalates and delegates appropriately."
-          - "Ensures the squad has the skills and resources it needs to ship autonomously."
+          - "Sets team rhythm and routines - facilitates agreement on how they all work together to discover, define and ship features or experiments to meet their goals."
+          - "Works collaboratively to get the best out of all of people, involving all disciplines throughout. Takes proactive steps to build and maintain team health, e.g. resolve conflict, counter inertia."
+          - "Point person for the team - does whatever is needed to unblock or support the team and their delivery. Escalates and delegates appropriately."
+          - "Ensures the team has the skills and resources it needs to ship autonomously."
       - level: 3
         criteria:
-          - "Servant leader who empowers the squad to achieve more and be ambitious (test sooner, generate more ideas, think broadly), valuing outcome over output."
-          - "Ensures the squad are aware of what other squads are working on and how that relates to their squad’s goals."
+          - "Servant leader who empowers the team to achieve more and be ambitious (test sooner, generate more ideas, think broadly), valuing outcome over output."
+          - "Ensures the team are aware of what other teams are working on and how that relates to their team’s goals."
           - "Coaches Associate Product Managers and helps them identify and achieve personal development goals."
       - level: 4
         criteria:
           - "Understands how the needs of the team vary across product and team lifecycle and adapts accordingly."
-          - "Open to being challenged, encourages constructive conflict and maximises the talent of others. Makes the squad “missionaries, not mercenaries”."
+          - "Open to being challenged, encourages constructive conflict and maximises the talent of others. Makes the team “missionaries, not mercenaries”."
       - level: 5
         criteria:
-          - "Creates understanding in squads of how their work links to other teams’ work, business goals and the market."
+          - "Creates understanding in teams of how their work links to other teams’ work, business goals and the market."
           - "Ensures strong product and team health, and an environment of psychological safety."
           - "Can resolve disputes or head off team performance issues through mediation, negotiation and coaching."
-          - "Identifies and mentors high potential Product Managers and APM candidates."
+          - "Identifies and mentors high potential team mates."
           - "Ensures we have the teams, practices and infrastructure in place to successfully execute strategy."
           - "Minimises dependencies between groups and removes systemic blockers to speed and quality. Incentivises breaking down problems, idea generation and shipping the smallest thing to learn what’s needed quickly."
   - name: "feedback"
@@ -174,17 +173,17 @@ topics:
       - level: 1
         criteria:
           - "Seeks out the information they need to solve a problem."
-          - "Keeps stakeholders like COps, legal, marketing, finance updated on progress and ensures they have what they need."
+          - "Keeps stakeholders updated on progress and ensures they have what they need."
           - "Able to clearly articulate what we’re working on and why."
       - level: 2
         criteria:
-          - "Proactively communicates with users, squads and stakeholders."
+          - "Proactively communicates with internal & external stakeholders."
           - "Identifies assumptions, shares direction and tailors communication to audience."
           - "Seeks out and gives constructive, actionable feedback where valuable."
       - level: 3
         criteria:
           - "Can gather influence and support for their work, confidently debating and defending their decisions and approach."
-          - "Communicates effectively to a wide range of stakeholders, e.g. sharing update with ExCo/all hands or community."
+          - "Communicates effectively to a wide range of stakeholders, e.g. sharing update with CEO or in all hands meetings."
       - level: 4
         criteria:
           - "Ensures the team has strong relationships with stakeholders, fully recognises their constraints and concerns and creates mutual recognition and trust."
